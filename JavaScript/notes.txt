@@ -1,0 +1,9 @@
+
+Measure the functions of this functions 
+
+- When an input increase the functions became slower and slower!
+- If you run old pc and modern mac then different time.
+- It all powerful depends on a CPU, Pl many other factors.
+- How to determine wins? b/t two people? the answer is Big notations.
+- Big O Ninja 
+- Big O notation describes how the time or space an algorithm uses grows as the input size increases.

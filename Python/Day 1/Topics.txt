@@ -1,0 +1,20 @@
+Topics 
+1. Primitive datatype & collections
+2. Variables & collections
+3. Control flow & iterables
+4. Functions
+5. Modules
+6. OOP
+7. Inheritance 
+8. Some advanced stuffs
+
+////////////////////////////////////////////
+
+Python
+ - High Level general purpose language
+ - 1989-1991 Public release
+ - Guido van ros
+ - Last few people python famous? why?
+ - Interpreter
+ - Why it is high level - no compile just run directly 
+ - speed is depends on a os, architecture
