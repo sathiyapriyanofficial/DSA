@@ -1,0 +1,30 @@
+Hash Tables - 
+- Python - dist 
+- Js - object
+- java - maps 
+- Ruby - hashes 
+
+Hash - db, caches 
+
+Hash - key value pair = basket.grapes = 1000
+
+Example - if you wanna store 1000 how do you store it difficult using count - 
+
+Hash Function  - take care of store items  
+
+
+Result & Take away
+
+1. It is great for access quick - that is why data base are hashed. 
+2. It is kind of hack on top of an array - use flexible keys instead of being index.
+
+
+Good 
+- Fast lookups
+- Fast insets 
+- Flexible keys 
+Note: Good collection needed. 
+
+Horror 
+- Unordered 
+- Show key iteration - extract keys it became slow. 
